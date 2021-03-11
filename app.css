@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    background-color: rgb(11, 90, 238);
+    color:rgb(243, 230, 230);
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    /* margin:0; */
+    padding:2px;
+}
+#quote{
+    font-family: 'Dancing Script', cursive;
+    font-size:2.5rem;
+    color: rgb(236, 241, 243);
+    font-style: italic;
+}
+#circle{
+    width:50px;
+    height:50px;
+    left:0px;
+    border-radius:50px;
+    background-color: rgb(71, 13, 228);
+    position:relative;
+    color:rgb(30, 177, 235);
+    text-align: center;
+    padding-top: 2px;
+}
+canvas{
+margin: 20px;
+border: 4px solid;
+}
+/* #web-animation{
+  background-color: black;
+  border:crimson solid 4px;
+  width:200px;
+  height:200px;
+  margin:5rem;
+   rgb(23, 8, 236) 
+} */
